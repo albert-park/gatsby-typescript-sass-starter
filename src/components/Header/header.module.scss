@@ -1,0 +1,18 @@
+@import "~@/styles/module-import.global";
+.header-wrapper {
+    background: $brand-yellow;
+    margin-bottom: 1.45rem;
+    h1 {
+        margin: 0;
+    }
+    a {
+        color: black;
+        text-decoration: none;
+    }
+}
+
+.inner {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 1.45rem 1.0875rem;
+}
